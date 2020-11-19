@@ -13,4 +13,4 @@ Functional To-do List by using JavaScript, HTML and CSS.
 
 
 # Visuals
-![Alt Text](./todo.gif)
+![Alt Text](todo.gif)
