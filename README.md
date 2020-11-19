@@ -1,5 +1,5 @@
 # To_do_list
-Functional To-do List by using JavaScript, HTML and CSS.
+**Functional To-do List by using JavaScript, HTML and CSS.**
 
 ✏️The user can add ➕ a to-do by filling the input and hit ENTER;
 
